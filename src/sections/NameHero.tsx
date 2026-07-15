@@ -1,4 +1,3 @@
-import { ArrowUpRight } from 'lucide-react'
 import { useState } from 'react'
 
 const TAGLINE_LINES = ['Creating Websites', 'That Feel Alive.']
