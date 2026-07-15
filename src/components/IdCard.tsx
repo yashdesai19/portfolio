@@ -35,7 +35,7 @@ const sizeStyles = {
 export default function IdCard({
   className = '',
   size = 'md',
-  photoSrc = '/card-photo.png',
+  photoSrc = '/my-photo.jpg.jpeg',
 }: IdCardProps) {
   const styles = sizeStyles[size]
   const [photoLoaded, setPhotoLoaded] = useState(false)

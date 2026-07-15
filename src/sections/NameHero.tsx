@@ -88,13 +88,6 @@ export default function NameHero() {
             Building scalable APIs, databases, and production-ready backend systems.
           </p>
 
-          <a
-            href="#showcase"
-            className="inline-flex w-fit items-center gap-2 rounded-full border border-white/20 bg-white/5 px-5 py-2.5 text-xs font-medium tracking-[0.2em] text-foreground backdrop-blur-sm transition-colors hover:border-accent-purple hover:bg-accent-purple/10 focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-accent-purple/70"
-          >
-            PORTFOLIO
-            <ArrowUpRight size={14} strokeWidth={2} />
-          </a>
         </div>
       </div>
 

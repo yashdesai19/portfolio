@@ -1,7 +1,7 @@
 import { useEffect, useState } from 'react'
 import { Code2, Globe, User } from 'lucide-react'
 
-const URL_TEXT = 'www.yashdesai.dev'
+const URL_TEXT = 'yashdesai19.vercel.app'
 const HIDE_DELAY_MS = 2800
 const FADE_DURATION_MS = 600
 const PROGRESS_DURATION_MS = 2400
